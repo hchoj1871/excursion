@@ -29,3 +29,8 @@ body {
 p {
     float: none;
 }
+
+.footer {
+    color: gray;
+    text-align: right;
+}
